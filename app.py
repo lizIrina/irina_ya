@@ -103,7 +103,7 @@ def home():
     return render_template_string(
         html_base,
         title="Infiel a Fiel",
-        heading="Bienvenido al servidor",
+        heading="ya aaaaaaa",
         message="Este es un sitio montado con Flask en el servidor de Irina.",
         button_text="Ir a Sobre mí",
         button_link="/about"
