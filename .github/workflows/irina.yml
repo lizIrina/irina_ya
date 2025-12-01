@@ -3,7 +3,7 @@ name: irina application
 on:
   push:
     branches:
-      - irinallinin
+      - irina
 
 permissions:
   contents: read
